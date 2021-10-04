@@ -1,3 +1,4 @@
 # hangman-the-game
 
-Welcome to the classic game Hangman!!
+A Hacktoberfest repository.
+Any languages accepted.
